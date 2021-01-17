@@ -18,4 +18,4 @@ require (
 	golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd
 )
 
-replace github.com/buger/goreplay v1.3.0_RC1 => github.com/qjfoidnh/goreplay v1.3.0_RC1
+replace github.com/buger/goreplay => ../goreplay
